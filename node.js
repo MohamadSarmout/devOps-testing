@@ -1,2 +1,3 @@
 console.log("hii all");
-console.log("every thing seems valid")
+console.log("every thing seems valid");
+var name = "salim";
